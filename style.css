@@ -45,11 +45,12 @@ textarea{
 .botao{
     background-color: rgba(0, 0, 0, 0.788);
     color: white;
+    font-size: 0.6em;
     font-weight: bold;
     border-radius: 5px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.425);
     height: 50px;
-    width: 110px;
+    width: 90px;
     margin-left: 90px;
     margin-bottom: 5px;
     margin-top: 7px;
@@ -59,8 +60,8 @@ textarea{
 
 #frase{
     margin-left: 1.2em;
-    height: 20px;
+    height: 30px;
     margin-bottom: 5px;
-    margin-left: 30px;
+    margin-left: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.425);
 }
