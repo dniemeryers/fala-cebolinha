@@ -43,6 +43,7 @@ textarea{
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.425);
 }
 .botao{
+    display: inline;
     background-color: rgba(0, 0, 0, 0.788);
     color: white;
     font-size: 0.6em;
