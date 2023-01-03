@@ -3,6 +3,10 @@ html, body {
     height: 100%;
 }
 
+body{
+    max-width: 350px;
+    margin: auto;
+}
 main{
     
     border: 10px solid black;
