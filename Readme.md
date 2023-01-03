@@ -2,7 +2,7 @@
 
 <h2 align="center">Descrição do projeto </h2>
 <p> Projeto Desenvolvido para treinar as Habilidades em HTML, CSS E JAVASCRIPT.</p>
-<p> Foi criada uma estrutura de repetição em for para trocar o "r" maiúsculo e minúsculo pelo "L" e usado o capitalize para transformar as iniciais de cada palavra em letras maiúsculas.  </p>
+<p> Foi criada uma estrutura de repetição para trocar o "R" pelo "L" e usado o capitalize para transformar as iniciais de cada palavra em letras maiúsculas.  </p>
 
 <br>
 
