@@ -10,7 +10,7 @@ function falaCebolinha(){
     let fraseCebolinha="";
     
     for (let letra of frase) {
-        if (letra==="r"){
+        if (letra==="r" || letra==="R"){
             fraseCebolinha+="l";
     
         }else{
