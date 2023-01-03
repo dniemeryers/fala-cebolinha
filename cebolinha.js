@@ -4,6 +4,7 @@ const button1 = document.querySelector("#button1");
 button2.addEventListener('click', () =>  falaCebolinha());
 button1.addEventListener('click', () => limpar());
 
+
 function falaCebolinha(){
     const frase = document.querySelector("#frase").value;
     

@@ -17,6 +17,7 @@ main{
     margin-top: 30px;
     margin-bottom: -1px;
     background-color: white;
+    border-radius: 10px 10px 0 0;
    
 }
 h1,h2,p{
@@ -33,6 +34,7 @@ h1,h2,p{
 footer{
     background-color: black;
     color: white;
+    border-radius: 0 0 10px 10px;
 }
 p{
     margin:0px;
