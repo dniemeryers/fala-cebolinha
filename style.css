@@ -1,16 +1,8 @@
-@charset "UTF-8";
 
-
-
-body{
-    margin:0; 
-   width: 350px;
-   height: 700px;
-   margin:auto; 
-   
-    
-      
+html, body {
+    height: 100%;
 }
+
 main{
     
     border: 10px solid black;
@@ -72,7 +64,7 @@ textarea{
 }
 
 #frase{
-    margin-left: 1.2em;
+    
     width: 90%;
     height: 30px;
     margin-bottom: 5px;
